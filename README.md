@@ -44,4 +44,4 @@ The project is ready to be cloned and used for further **machine learning modeli
 ### How to Use
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Titanic-Advanced-EDA.git
+git clone https://github.com/kathiresanlavanya7/Titanic-Advanced-EDA.git
